@@ -525,6 +525,9 @@ automatically detect performance anomalies. It includes powerful analytics tools
 help you diagnose issues and to understand what users actually do with your app. It is designed to 
 help you continuously improve performance and usability.
 
+You can use Application Insights Codeless Attach to emit data to Application Insights. 
+Instructions on setup can be found [here](https://github.com/microsoft/Application-Insights-K8s-Codeless-Attach)
+
 After some time, you can see distributed tracing in the 
 configured Application Insights instance. Go to the `Application Map' blade in the Azure Portal:
 ![](./media/distributed-tracing.jpg)
@@ -597,6 +600,7 @@ Spring Cloud Service Registry, Spring Cloud Gateway, etc.
 - [Azure for Java Cloud Developers](https://docs.microsoft.com/en-us/azure/java/)
 - [Spring Cloud Azure](https://cloud.spring.io/spring-cloud-azure/)
 - [Spring Cloud](https://spring.io/projects/spring-cloud)
+- [Application Insights Codeless Attach](https://github.com/microsoft/Application-Insights-K8s-Codeless-Attach)
 - ...
 
 ## Credits
